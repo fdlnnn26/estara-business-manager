@@ -1,4 +1,4 @@
-// Cek cepat konfigurasi (tanpa membuka nilai rahasia): buka https://domain-anda/api/health
+// Cek cepat konfigurasi tanpa membuka nilai rahasia: buka https://domain-anda/api/health
 import { fail } from './_auth.js';
 
 export default function handler(req, res) {
